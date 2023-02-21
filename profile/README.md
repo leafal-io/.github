@@ -8,5 +8,5 @@
 </p>
 
 <h1 align="center">
-    The best <span color="#3dad2c">Moments</span> in gaming are experienced together.
+    The best <span text="#3dad2c">Moments</span> in gaming are experienced together.
 </h1>
