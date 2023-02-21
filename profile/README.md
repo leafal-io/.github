@@ -7,6 +7,6 @@
     </a>
 </p>
 
-<p align="center" >
-    <font size="42px">The best <span color="#3dad2c">Moments</span> in gaming are experienced together.</font>
-</p>
+<h1 align="center">
+    The best <span color="#3dad2c">Moments</span> in gaming are experienced together.
+</h1>
