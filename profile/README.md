@@ -8,5 +8,5 @@
 </p>
 
 <h3 align="center" border="none">
-    The best Moments in gaming are experienced together.
+    Let's make games more social.
 </h3>
